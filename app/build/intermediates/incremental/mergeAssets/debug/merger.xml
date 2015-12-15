@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/user/Android/QuizApp/app/src/main/assets"><file name="crashlytics-build.properties" path="/home/user/Android/QuizApp/app/src/main/assets/crashlytics-build.properties"/><file name="quizapp.db" path="/home/user/Android/QuizApp/app/src/main/assets/quizapp.db"/></source></dataSet><dataSet config="debug"><source path="/home/user/Android/QuizApp/app/src/debug/assets"/></dataSet></merger>

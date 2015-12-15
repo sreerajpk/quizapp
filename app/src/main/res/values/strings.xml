@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="app_name" tools:ignore="MissingTranslation">QuizApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="points_scored_">Points Scored:</string>
+    <string name="twitter">Share on Twitter</string>
+    <string name="leaderboard">Leaderboard</string>
+    <string name="sections">Choose Your Arena</string>
+    <string name="difficulty_level">Difficulty level</string>
+    <string name="expert">expert</string>
+    <string name="amateur">amateur</string>
+    <string name="master">master</string>
+    <string name="no_description">No Description</string>
+    <string name="play_games_app_id">776236807538</string>
+    <string name="without_sign_in">No, Thanks</string>
+    <string name="quizapp">QuizApp</string>
+    <string name="achievements">Achievements</string>
+    <string name="play_again">Play Again</string>
+    <string name="facebook_app_id">1508083336135098</string>
+    <string name="success">Success</string>
+    <string name="successfully_posted">Successfully shared the post</string>
+    <string name="error">Error</string>
+    <string name="section_name">Section Name</string>
+    <string name="score">Score</string>
+    <string name="play_games_submit_error">Cannot submit score and increment achievement!!!</string>
+    <string name="network_error">Network Error</string>
+    <string name="check_network_connection">Please check your network connection and then click OK</string>
+    <string name="title_">Title:</string>
+    <string name="type_your_message">Type your message</string>
+    <string name="exit_game">Exit Game</string>
+    <string name="exit_game_dialog">Do you want to exit game?</string>
+    <string name="successfully_posted_to_twitter">Successfully posted to Twitter</string>
+    <string name="network_connection_for_the_first_time">Network Connection Required for the first time. Check and click OK</string>
+    <string name="timeout">Timeout!!!</string>
+    <string name="facebook">Share to Facebook</string>
+    <string name="cancelled">Cancelled</string>
+    <string name="checking_user">Checking user&#8230;</string>
+    <string name="running_play_games_">Running Google play games&#8230;</string>
+    <string name="loading_quiz_please_wait_">Loading Quiz, please wait&#8230;</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="return_home">Go to home page!!!</string>
+    <string name="sure">Are you sure?</string>
+    <string name="loading_questions">Loading questions, please wait&#8230;</string>
+    <string name="no_answer">Answer Not Selected!!!</string>
+    <string name="select_an_option">Please Select an option</string>
+    <string name="tweet">Tweet</string>
+    <string name="share_to_twitter">Share to Twitter</string>
+    <string name="starting_twitter">Starting Twitter&#8230;</string>
+    <string name="logging_in_to_twitter">Logging in to twitter&#8230;</string>
+    <string name="posting_to_twitter">Posting to twitter&#8230;</string>
+    <string name="sign_in_to_submit_score">You need to sign in to submit score</string>
+    <string name="want_to_sign_in">Do you want to sign in?</string>
+    <string name="app_default_status_part1">"Awesome!!! I scored "</string>
+    <string name="app_default_status_part2">" on QuizApp"</string>
+    <string name="exit_the_game">Do you want to exit the game?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="starting_facebook">Starting Facebook&#8230;</string>
+    <string name="login">Login</string>
+    <string name="not_yet_implemented">Not yet implemented</string>
+    <string name="sharing_to_facebook">Sharing to Facebook</string>
+    <string name="no_sections_loaded">OOPS!!! No Sections Loaded</string>
+
+</resources>

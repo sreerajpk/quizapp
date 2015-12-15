@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="app_name" tools:ignore="MissingTranslation">QuizApp</string>
+    <string name="action_settings">paramètres</string>
+    <string name="points_scored_">Points marqués:</string>
+    <string name="twitter">Partager sur Twitter</string>
+    <string name="leaderboard">Leaderboard</string>
+    <string name="sections">Choisissez votre Arena</string>
+    <string name="difficulty_level">niveau de difficulté</string>
+    <string name="expert">expert</string>
+    <string name="amateur">amateur</string>
+    <string name="master">maître</string>
+    <string name="no_description">aucun description</string>
+    <string name="play_games_app_id">776236807538</string>
+    <string name="without_sign_in">Non Merci</string>
+    <string name="quizapp">QuizApp</string>
+    <string name="achievements">Réalisations</string>
+    <string name="play_again">Play Again</string>
+    <string name="facebook_app_id">1508083336135098</string>
+    <string name="success">succès</string>
+    <string name="successfully_posted">Succès partagé le poste</string>
+    <string name="error">erreur</string>
+    <string name="section_name">Nom de la section</string>
+    <string name="score">But</string>
+    <string name="play_games_submit_error">Vous ne pouvez pas soumettre score et réalisation d\'incrémentation !!!</string>
+    <string name="network_error">Erreur réseau</string>
+    <string name="check_network_connection">Se il vous plaît vérifier votre connexion réseau, puis cliquez sur D\'ACCORD</string>
+    <string name="title_">Titre:</string>
+    <string name="type_your_message">Tapez votre message</string>
+    <string name="exit_game">sortie jeu</string>
+    <string name="exit_game_dialog">Voulez-vous quitter jeu?</string>
+    <string name="successfully_posted_to_twitter">Succès posté à Twitter</string>
+    <string name="network_connection_for_the_first_time">Connexion réseau requise pour la première fois. Vérifiez et cliquez sur D\'ACCORD</string>
+    <string name="timeout">Temps Libre !!!</string>
+    <string name="facebook">Partager sur Facebook</string>
+    <string name="cancelled">Annulé</string>
+    <string name="checking_user">Vérification de l\'utilisateur&#8230;</string>
+    <string name="running_play_games_">Courir Google jouer à des jeux&#8230;</string>
+    <string name="loading_quiz_please_wait_">Chargement Quiz, se il vous plaît patienter&#8230;</string>
+    <string name="ok">D\'ACCORD</string>
+    <string name="cancel">annuler</string>
+    <string name="return_home">Aller à la page d\'accueil !!!</string>
+    <string name="sure">Êtes-vous sûr?</string>
+    <string name="loading_questions">Chargement questions, se il vous plaît attendre&#8230;</string>
+    <string name="no_answer">Réponse Non sélectionné !!!</string>
+    <string name="select_an_option">Se il vous plaît Sélectionnez une option</string>
+    <string name="tweet">Tweet</string>
+    <string name="share_to_twitter">Partager sur Twitter</string>
+    <string name="starting_twitter">Démarrage Twitter&#8230;</string>
+    <string name="logging_in_to_twitter">Connexion à Twitter&#8230;</string>
+    <string name="posting_to_twitter">Affichage twitter&#8230;</string>
+    <string name="sign_in_to_submit_score">Vous devez vous connecter pour envoyer des notes</string>
+    <string name="want_to_sign_in">Voulez-vous vous connecter?</string>
+    <string name="app_default_status_part1">"impressionnant !!! je ai marqué "</string>
+    <string name="app_default_status_part2">" sur QuizApp"</string>
+    <string name="exit_the_game">Voulez-vous quitter le jeu?</string>
+    <string name="yes">oui</string>
+    <string name="no">aucun</string>
+    <string name="starting_facebook">Démarrage Facebook&#8230;</string>
+    <string name="login">S\'identifier</string>
+    <string name="not_yet_implemented">Pas encore implémenté</string>
+    <string name="sharing_to_facebook">Partage sur Facebook</string>
+    <string name="no_sections_loaded">désolé !!! Aucun articles Loaded</string>
+
+</resources>

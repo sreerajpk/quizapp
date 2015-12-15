@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/tick_blur" android:state_pressed="true"></item>
+    <item android:drawable="@drawable/tick"></item>
+
+</selector><!-- From: file:/home/user/Android/QuizApp/app/src/main/res/drawable-mdpi/next_button_selector.xml -->
